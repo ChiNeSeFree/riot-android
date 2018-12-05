@@ -20,6 +20,7 @@ Bugfix:
  - Use same "Call Anyway" string from iOS (#2695)
  - Improve `/markdown` command (#2673)
  - Display thumbnail for encrypted files without a remote thumbnail (#2734)
+ - Defensive code for notifications issues + check play services as per FCM recommendation (#2266)
 
 Translations:
  -
