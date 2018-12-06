@@ -12,6 +12,7 @@ Improvements:
  - Handle missing or bad parameter in slash command
  - Support specifying kick and ban message (#2164)
  - Add image transparency and fix issues with gifs in the media viewer (#2731)
+ - Make User Agreement part of the registration flow (#2442)
 
 Other changes:
  -
